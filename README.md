@@ -1,5 +1,4 @@
 # AwaasAI
-# AwaasAI
 
 AI-Assisted Housing Finance & Construction Platform
 
