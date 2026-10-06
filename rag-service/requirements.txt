@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+pydantic
+openai
+pypdf
+numpy
+sentence-transformers
+mysql-connector-python

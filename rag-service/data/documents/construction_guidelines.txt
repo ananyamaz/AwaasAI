@@ -1,0 +1,35 @@
+AwaasAI Construction Guidelines
+Version: 1.0
+Document Type: Reference Guide
+
+Pre-Construction Verification
+
+Before construction begins, the applicant should ensure that
+property-related documents and approved building plans are available.
+The field officer should review the submitted documents for completeness
+and identify any missing information before the application proceeds.
+
+Site Verification
+
+A field officer may need to verify the property details and confirm
+that the information provided in the application is consistent with
+the available property documentation.
+
+Construction Progress
+
+Construction progress should be recorded at relevant stages of the
+project. Photographs and field observations may be used to document
+progress and identify potential issues.
+
+Document Verification
+
+If required property information or construction-related documentation
+is unavailable, the field officer should request the missing information
+from the applicant rather than assuming that the requirement has been
+satisfied.
+
+Important Notice
+
+This document is synthetic demonstration data created for the AwaasAI
+software project. It is not an official construction policy or
+government guideline.

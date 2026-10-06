@@ -1,0 +1,45 @@
+AwaasAI Housing Finance Guide
+Version: 1.0
+Document Type: Reference Guide
+
+Housing Loan Documentation
+
+A housing loan application may require identity proof, address proof,
+income-related documents, bank statements, and property-related documents.
+The exact documentation requirements depend on the applicant profile,
+loan product, lender, and property.
+
+Identity and Address Verification
+
+Applicants may be asked to provide valid identity and address documents.
+The documents should be clear and readable and the information should
+match the details provided in the application.
+
+Income Verification
+
+Applicants may need to provide documents that demonstrate their income.
+For salaried applicants, this may include salary slips, bank statements,
+or other employment-related income evidence. For self-employed applicants,
+income tax records and business-related financial documents may be relevant.
+
+Property Documentation
+
+Property-related documentation may include proof of ownership,
+sale agreements, approved building plans, and other documents required
+for property verification.
+
+Document Verification Workflow
+
+A field officer should first review the submitted documents for
+completeness and readability. Missing or unclear documents should be
+identified before the application proceeds to the next verification stage.
+
+If required information is unavailable, the officer should request the
+missing document from the applicant rather than assuming that the
+requirement has been satisfied.
+
+Important Notice
+
+This document is synthetic demonstration data created for the AwaasAI
+software project. It is not an official lending policy or government
+guideline.
